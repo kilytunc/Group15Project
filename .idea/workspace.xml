@@ -18,10 +18,35 @@
     </expand>
     <select />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
+
+
+
     <list default="true" id="e1b22b1a-6f60-4d7f-a399-88a16208d513" name="Default Changelist" comment="third try">
       <change beforePath="$PROJECT_DIR$/src/test/java/Aytek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Aytek.java" afterDir="false" />
-    </list>
+
+      <list default="true" id="e1b22b1a-6f60-4d7f-a399-88a16208d513" name="Default Changelist" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
+      </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,13 +137,16 @@
       </map>
     </option>
   </component>
+
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try to collaborate" />
     <MESSAGE value="second try" />
     <MESSAGE value="third try" />
     <option name="LAST_COMMIT_MESSAGE" value="third try" />
   </component>
-  <component name="WindowStateProjectService">
+
+
+    <component name="WindowStateProjectService">
     <state x="1692" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1602621881701">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
@@ -127,9 +155,23 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602619556821" />
-    <state x="1976" y="151" key="Vcs.Push.Dialog.v2" timestamp="1602621723880">
+
+
+      <state x="1976" y="151" key="Vcs.Push.Dialog.v2" timestamp="1602621723880">
       <screen x="1600" y="0" width="1600" height="860" />
+
+        <state x="633" y="310" key="Github.ShareDialog" timestamp="1602619716251">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="633" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602619716251" />
+    <state x="534" y="117" key="Github.UntrackedFilesDialog" timestamp="1602619728122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602619728122" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602619670820">
+      <screen x="0" y="0" width="1536" height="824" />
+
+        </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602619670820" />
     <state x="1976" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1602621723880" />
     <state x="2177" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602621799054">
